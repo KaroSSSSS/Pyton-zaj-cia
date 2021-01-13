@@ -10,4 +10,4 @@ if liczba2 !=0:
     iloraz = liczba / liczba2
     print(iloraz)
 else:
-    print("Nie można podzielić przez 0")
+    print("Pamiętaj Cholero! NIE DZIEL PRZEZ ZERO!")
